@@ -25,8 +25,7 @@
 |Spring colud gateway|              +              |                                  +                            |                                                                |                   |
 |WSO2 API Manager    |                             |                                                               |                                                                |                   |
 |Kong Enterprise\    |
-|Edition             |                             |                                                               |                                                                |                   |
-|                    |                             |                                                               |                                                                |                   |
+Edition                                                                                                                                                                                            |                    |                             |                                                               |                                                                |                   |
 
 ## Задача 2: Брокер сообщений
 
