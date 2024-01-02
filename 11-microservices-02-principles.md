@@ -23,9 +23,9 @@
 | API Gateway |              +              |                                                               |                                                                |                   |
 | NGINX Plus  |              +              |                                                               |                                                                |                   |
 |NETFLIX Zuul |              +              |                                                               |                                                                |                   |
-|Spring       |              +              |                                                               |                                                                |                   |
-|colud gateway|                             |                                                               |                                                                |                   |
-
+|Spring 
+|colud gateway|              +              |                                                               |                                                                |                   |
+|             |                             |                                                               |                                                                |                   |
 
 
 
