@@ -17,16 +17,21 @@
 
 ## Решение 1
 
+Сравнительная таблица возможностей различных программных решений
+
 | API geteway        |Обеспечение  терминации HTTPS|Возможность проверки  аутентификационной  информации в запросах|Маршрутизация запросов к нужному сервису  на основе конфигурации|Итеграция с облаком|
 |:------------------:|:---------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------:|
 |AmazonAPI Gateway   |              +              |                                  +                            |                              AWS Lambda                        |     AWS           |
-|     NGINX Plus     |              +              |                                  +                            |                                                                |                   |
-|NETFLIX Zuul        |              +              |                                  +                            |                                                                |                   |
-|Spring colud gateway|              +              |                                  +                            |                                                                |                   |
-|WSO2 API Manager    |              +              |                                  +                            |                                                                |                   |
-|Kong Enterprise Edition|           +              |                                  +                            |                                                                |                   |
-|Apigee Edge Microgateway|          +              |                                  +                            |                                                                |                   |
-|Red Hat 3scale APIcast API Gateway|+              |                                  +                            |                                                                |                   |
+|NGINX Plus          |              +              |                                  +                            |                              LUA                               |     Yes           |
+|NETFLIX Zuul        |              +              |                                  +                            |                              -                                 |     Yes           |
+|Spring colud gateway|              +              |                                  +                            |                              yml, code                         |     Yes           |
+|WSO2 API Manager    |              +              |                                  +                            |                             Web GUI/ CLI                       |     Yes           |
+|Kong Enterprise Edition|           +              |                                  +                            |                              Plugins                           |     Yes           |
+|Apigee Edge Microgateway|          +              |                                  +                            |                                                                |     Yes           |
+|Red Hat 3scale APIcast API Gateway|+              |                                  +                            |                               Web GUI                          |     Yes           |
+
+
+
 
 ## Задача 2: Брокер сообщений
 
