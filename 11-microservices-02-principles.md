@@ -22,12 +22,13 @@
 | API geteway        |Обеспечение  терминации HTTPS|Возможность проверки  аутентификационной  информации в запросах|Маршрутизация запросов к нужному сервису  на основе конфигурации|Итеграция с облаком|
 |:------------------:|:---------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------:|
 |AmazonAPI Gateway   |              +              |                                  +                            |                              AWS Lambda                        |     AWS           |
+|Azure API Management|              +              |                                  +                            |            ASP.NET Core Web API, APIM Self-Hosted Gateway      | Azure and other   |
 |NGINX Plus          |              +              |                                  +                            |                              LUA                               |     Yes           |
 |NETFLIX Zuul        |              +              |                                  +                            |                              -                                 |     Yes           |
 |Spring colud gateway|              +              |                                  +                            |                              yml, code                         |     Yes           |
 |WSO2 API Manager    |              +              |                                  +                            |                             Web GUI/ CLI                       |     Yes           |
 |Kong Enterprise Edition|           +              |                                  +                            |                              Plugins                           |     Yes           |
-|Apigee Edge Microgateway|          +              |                                  +                            |                                                                |     Yes           |
+|Apigee Edge Microgateway|          +              |                                  +                            |                             CF Router                          |     Yes           |
 |Red Hat 3scale APIcast API Gateway|+              |                                  +                            |                               Web GUI                          |     Yes           |
 
 
