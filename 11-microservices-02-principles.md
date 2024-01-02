@@ -23,8 +23,10 @@
 |     NGINX Plus     |              +              |                                  +                            |                                                                |                   |
 |NETFLIX Zuul        |              +              |                                  +                            |                                                                |                   |
 |Spring colud gateway|              +              |                                  +                            |                                                                |                   |
-|WSO2 API Manager    |                             |                                                               |                                                                |                   |
-|Kong Enterprise Edition|                          |                                                               |                                                                |                   |
+|WSO2 API Manager    |              +              |                                  +                            |                                                                |                   |
+|Kong Enterprise Edition|           +              |                                  +                            |                                                                |                   |
+|Apigee Edge Microgateway|          +              |                                  +                            |                                                                |                   |
+|Red Hat 3scale APIcast API Gateway|+              |                                  +                            |                                                                |                   |
 
 ## Задача 2: Брокер сообщений
 
